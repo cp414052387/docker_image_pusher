@@ -1,5 +1,2 @@
 #测试1
-ghcr.io/open-webui/open-webui:main
-docker.m.daocloud.io/jxxghp/moviepilot
-ghcr.io/imagegenius/immich
-jxxghp/moviepilot-v2:2.0.9
+jxxghp/moviepilot-v2:2.1.0
