@@ -1,2 +1,2 @@
 #测试10
-jxxghp/moviepilot-v2:2.1.0
+jxxghp/moviepilot-v2:2.1.1
