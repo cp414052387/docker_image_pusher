@@ -1,2 +1,3 @@
 #测试10
 jxxghp/moviepilot-v2:2.1.1
+mccloud/subgen:2025.01.01-cpu
