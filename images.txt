@@ -1,2 +1,2 @@
 #moviepilot-v2
-unclecode/crawl4ai:all-amd64
+jxxghp/moviepilot-v2:2.8.5
