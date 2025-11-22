@@ -1,2 +1,2 @@
 #moviepilot-v2
-jxxghp/moviepilot-v2:2.8.5
+jxxghp/moviepilot-v2:2.8.4
