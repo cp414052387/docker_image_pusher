@@ -1,2 +1,3 @@
 #moviepilot-v2
-jxxghp/moviepilot-v2:2.8.4
+jxxghp/moviepilot-v2:2.8.7
+jxxghp/moviepilot-ocr:latest
