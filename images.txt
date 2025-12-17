@@ -1,3 +1,4 @@
 #moviepilot-v2
-jxxghp/moviepilot-v2:2.8.7
+jxxghp/moviepilot-v2:2.8.8
 jxxghp/moviepilot-ocr:latest
+taksss/php-epg:latest
