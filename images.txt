@@ -3,3 +3,4 @@ jxxghp/moviepilot-v2:2.8.8
 jxxghp/moviepilot-ocr:latest
 taksss/php-epg:latest
 msmkls/daoliyu-backend:latest
+msmkls/daoliyu-frontend:latest
