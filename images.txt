@@ -6,3 +6,4 @@ msmkls/daoliyu-backend:0.1.9
 msmkls/daoliyu-frontend:0.1.9
 ghcr.io/dimitri/pgloader:latest
 dimitri/pgloader:latest
+gdy666/lucky:v2
