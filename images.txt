@@ -7,3 +7,4 @@ msmkls/daoliyu-frontend:0.1.9
 ghcr.io/dimitri/pgloader:latest
 dimitri/pgloader:latest
 gdy666/lucky:v2
+ciwei123321/foam-api:latest
