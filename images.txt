@@ -8,3 +8,5 @@ ghcr.io/dimitri/pgloader:latest
 dimitri/pgloader:latest
 gdy666/lucky:v2
 ciwei123321/foam-api:latest
+wantcat/trendradar:latest
+wantcat/trendradar-mcp:latest
