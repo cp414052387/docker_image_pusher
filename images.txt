@@ -1,3 +1,2 @@
-#moviepilot-v21
-jxxghp/moviepilot-v3:latest 
-mkbehr/clawdbot:latest
+#moviepilot-v212
+jxxghp/moviepilot-v3:latest
