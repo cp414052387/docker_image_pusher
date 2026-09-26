@@ -1,2 +1,2 @@
-#moviepilot-v212
+#moviepilot-v3 308
 jxxghp/moviepilot-v3:latest
